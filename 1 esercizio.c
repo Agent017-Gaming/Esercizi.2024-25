@@ -1,5 +1,6 @@
 #include <studio.h>
 
+
 int main(void){
 	int N1;
 	int N2;
